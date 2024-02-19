@@ -1,11 +1,4 @@
-// 1) Entrar de una en el juego
-// 2) Elegir nombre del jugador
-// 3) Elegir si quiere pistas o no
-// 4) Si quiere pistas, mostrar las pistas
-// 5) Si no quiere pistas, solo se muestran los intentos
-// 6) Preguntar si quiere volver a jugar 
-// 7) Preguntar si quiere salir del juego
-
+// Juego del Ahorcado
 
 
 let seguirJugando = true
