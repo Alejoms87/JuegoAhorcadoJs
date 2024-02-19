@@ -1,0 +1,35 @@
+:root {
+    --color1: #08D9D6;
+    --color2: #252A34;
+    --color3: #FF2E63;
+    --color4: #EAEAEA;
+    --color5: #FFD93D;
+
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--color2)
+}
+
+body {
+    height: 95vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+h1 {
+    margin: 0;
+    font-size: 10vh;
+    color: var(--color5);
+}
+
+h2 {
+    font-size: 7vh;
+    color: var(--color3);
+}
