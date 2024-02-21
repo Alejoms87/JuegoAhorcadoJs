@@ -1,5 +1,9 @@
 // Juego del Ahorcado
 
+//Se le va a preguntar el nombre al jugador y luego si quiere o no jugar con pistas
+
+// El usuario debera ir escribiendo la palabra correcta hasta acertar o quedarse sin intentos
+
 
 let seguirJugando = true
 
